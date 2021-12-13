@@ -1,20 +1,2 @@
-{
-"PlugIn":"Ebay",     
-"Version":4,
-"Delimiter":";",  
-"DataHeaderLine":12,     
-"DataStartLine":13,            
-"TransactionID":3,      
-"TransactionID2":3,      
-"OrderNumber":2,     
-"TransactionDate":0,     
-"TypeString1":0,      
-"Amount":0,      
-"Amount1":27,
-"Amount2":28,
-"Amount3":31,
-"Amount4":0,
-"Currencycode":11,
-"User":0,  
-"Description":0
-}
+---
+Date: "13.12.2021"
